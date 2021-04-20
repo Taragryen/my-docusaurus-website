@@ -1,9 +1,9 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   // 网站标题
-  title: "Ricardo",
+  title: "Ricardo的博客",
   // 网站标语
-  tagline: "Docusaurus 使得开源文档网站得以轻松维护。",
+  tagline: "这里是Ricardo的博客!",
   // 网站网址
   url: "https://xszhao.vercel.app/",
   // 站点相对路径
